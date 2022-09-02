@@ -1,0 +1,3 @@
+The objective of this project is to create a web application for the Pharmacy Shop which allows standard employee users to list their job assignments, working hours engaged/assigned and to inform the system of their own availabilities. Employees can also indicate jobs that he/she cannot fulfill and all employee's availabilities can be indicated up to one month earlier.
+
+Secondly we will also have administrative staff accounts which has the right to visualise manpower availability at any time up to one month earlier. Administrative staff can also allocate jobs and view all employee's workloads and statuses easily.
